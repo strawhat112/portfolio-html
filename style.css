@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6
+{color:red;}
+ol li {text-decoration:underline ;}
+a:hover{color: red;}
+a:link{text-decoration: none;}
+a:visited{color:blueviolet}
+legend{font-size:20px}
+.my-list{list-style: none;}
+a:hover (move the mouse overflow) {color:blueviolet}
+p:first-child{margin-top:}
+h6{:italic::cue-region}
+p{font-weight:bold;font-size:20px;}
+h1{font-style: italic;color: black;}
+h2{border:2px solid black;padding:2px 5px 2px 5px;}
+body{background-color: rgb(254, 255, 255);}
+nav{border:4px solid black;padding:3px 6px 3px 6px;}
+form{border:4px solid black;padding:3px 6px 3px 6px;}
+iframe{display: block;}
+ul{display:inline;}
+
+
+
+
+
